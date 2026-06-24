@@ -1,0 +1,29 @@
+Biz Requirements: Increase Revenue, cut costs, improve targeting
+
+KPIs: Sales, production cost, profit
+
+Objectives:
+
+Page 1: Overview
+Analyze yearly sales trends to monitor business growth over time
+Compare sales contribution across different region groups
+Compare sales contribution across product categories
+Analyze customer distribution across regions to understand market presence
+
+Page 2: Time Series Analysis :
+Analyze yearly, quarterly, and monthly sales trends
+2. Identify seasonal patterns and peak sales periods
+3. Compare sales, production cost, and profit trends over year
+4. Monitor overall business growth and performance changes
+
+Page 3: Customer Analysis:
+5. Analyze customer distribution across regions and countries
+6. Identify repeat customers and customer retention trends
+7. Identify top customers based on sales
+8. Analyze customer purchasing behavior across different markets
+
+Page 4: Product & Regional Analysis
+9. Analyze sales performance by product category and subcategory
+10. Identify top-selling and high-profit products
+11. Detect low-profit or loss-making products for cost reduction
+12. Compare regional sales and profit performance to identify top-performing markets
